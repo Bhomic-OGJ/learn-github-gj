@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 2rem;
+    font-family: sans-serif;
+    background-color: #03bbff;
+    color:#fff;
+}
